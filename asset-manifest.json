@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/moneyes-web/static/css/main.ec55c4a5.css",
-    "main.js": "/moneyes-web/static/js/main.baeacbb3.js",
-    "static/js/787.4dff7fda.chunk.js": "/moneyes-web/static/js/787.4dff7fda.chunk.js",
-    "static/media/SpaceGrotesk-Regular.ttf": "/moneyes-web/static/media/SpaceGrotesk-Regular.67fa42510e26f5d4733d.ttf",
-    "static/media/SpaceGrotesk-Bold.ttf": "/moneyes-web/static/media/SpaceGrotesk-Bold.96e001703fcc4898de0e.ttf",
-    "index.html": "/moneyes-web/index.html",
-    "main.ec55c4a5.css.map": "/moneyes-web/static/css/main.ec55c4a5.css.map",
-    "main.baeacbb3.js.map": "/moneyes-web/static/js/main.baeacbb3.js.map",
-    "787.4dff7fda.chunk.js.map": "/moneyes-web/static/js/787.4dff7fda.chunk.js.map"
+    "main.css": "./static/css/main.9f840bc2.css",
+    "main.js": "./static/js/main.03b19538.js",
+    "static/js/787.4dff7fda.chunk.js": "./static/js/787.4dff7fda.chunk.js",
+    "static/media/SpaceGrotesk-Regular.ttf": "./static/media/SpaceGrotesk-Regular.67fa42510e26f5d4733d.ttf",
+    "static/media/SpaceGrotesk-Bold.ttf": "./static/media/SpaceGrotesk-Bold.96e001703fcc4898de0e.ttf",
+    "index.html": "./index.html",
+    "main.9f840bc2.css.map": "./static/css/main.9f840bc2.css.map",
+    "main.03b19538.js.map": "./static/js/main.03b19538.js.map",
+    "787.4dff7fda.chunk.js.map": "./static/js/787.4dff7fda.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec55c4a5.css",
-    "static/js/main.baeacbb3.js"
+    "static/css/main.9f840bc2.css",
+    "static/js/main.03b19538.js"
   ]
 }
